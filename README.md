@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Etette
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in JavaScript, python, web3 and white hat hacks
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me 
