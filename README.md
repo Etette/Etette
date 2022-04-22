@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Etette
-- 👀 I’m interested in JavaScript, python, web3 and white hat hacks
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in JavaScript, python, web3 and Blockchain
+- 🌱 I’m currently studying Software Engineering with ALX
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me 
 
