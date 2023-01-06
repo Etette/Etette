@@ -1,6 +1,6 @@
 - 👋 Etette
-- 👀 I’m interested in Cyber Security | Python | JavaScript
-- 🌱 I’m currently studying Software Engineering with ALX
+- 👀 I’m interested in Cyber Security | Backend software engineering | web3
+- 🌱 I’m currently studying Software Engineering with ALX | web3 with Alchemy | solidity with Ekolance
 - 💞️ I’m looking to collaborate on any project
 - 📫 etokoffice@gmail.com 
 
