@@ -1,9 +1,9 @@
 - 👋 Etette
-- Mechanical Engineer | Software Engineer | Web3 Developer
-- 👀 I’m interested in Cyber Security | Backend software engineering | web3
-- 🌱 I’m currently studying Software Engineering with ALX | web3 with Alchemy | solidity with Ekolance
+- Mechanical Engineer | Software Engineer | Blockchain Developer
+- 👀 I’m interested in Cyber Security | Artificial Inteligence | web3
+- 🌱 I’m currently studying Machine Learning and Artificial Intelligence
 - 💞️ I’m open to collaborate on any project
-- 📫 etokoffice@gmail.com 
+- 📫 etettetok5@gmail.com
 
 <!---
 Etette/Etette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
