@@ -1,4 +1,4 @@
-- 👋 Etette
+- 👋 Etette Etok
 - Mechanical Engineer | Software Engineer | Blockchain Developer
 - 👀 I’m interested in Cyber Security | Artificial Inteligence | web3
 - 🌱 I’m currently studying Machine Learning and Artificial Intelligence
