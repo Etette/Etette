@@ -1,6 +1,6 @@
-- 👋 Etette Etok
-- Mechanical Engineer | Software Engineer | Blockchain Developer
-- 👀 I’m interested in Cyber Security | Artificial Inteligence | web3
+- Hi, i'm  Etette Etok
+- Software Engineer | Blockchain Developer
+- 👀 I’m interested in Web Development | Cyber Security | Artificial Inteligence | web3
 - 🌱 I’m currently studying Machine Learning and Artificial Intelligence
 - 💞️ I’m open to collaborate on any project
 - 📫 etettetok5@gmail.com
