@@ -1,7 +1,6 @@
 - Etette Etok
 - Software Engineer | Blockchain Developer
 - my interests include Web Development | Blockchain Development | Cyber-Security | Artificial Inteligence
-- I’m currently starknet smart contract development
 - I’m open to collaborate on any project
 - 📫 etettetok5@gmail.com
 
